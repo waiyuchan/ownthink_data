@@ -9,3 +9,10 @@ entity -> relation -> property
 entity -> relation -> entity
 ```
 
+## Source Data
+
+[ownthink/KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData)
+
+## Acknowledge
+
+Thanks to [ownthink](https://www.ownthink.com/) organization for the open source data.
